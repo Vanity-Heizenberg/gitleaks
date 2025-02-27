@@ -8,13 +8,15 @@ Here's a running list of some organizations using Gitleaks[^1]:
 1. [Gitleaks](https://gitleaks.io)
 1. [GoReleaser](https://goreleaser.com) 
 2. [Trendyol](https://trendyol.com)
+3. MeganFleming (git-hub user) (https://github.com/zricethezav/gitleaks/edit/master/USERS.md)!
 
-Feel free to [add yours](https://github.com/zricethezav/gitleaks/edit/master/USERS.md)!
+Feel free to add yours!
 
 <!--
 Hey! Thanks for looking into this file!
 If you're going to edit it, please:
-- keep a-z ordering :)
+-
+keep a-z ordering :)
 - edit only the USERS.md file at the repository's root folder
 -->
 
